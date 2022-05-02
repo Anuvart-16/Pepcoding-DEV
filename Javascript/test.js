@@ -1,0 +1,1 @@
+console.log('Hello Anuvart from the browser') // this function is used to print on console 
